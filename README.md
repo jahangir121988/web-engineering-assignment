@@ -8,7 +8,7 @@ Blog App using PDO.
 Session based authentication mechanism.
 Only logged in users can post new blogs.
 Read blog page is set public.
-Using given below credentials, one can post blog using local server, email me at csmdot84@gmail.com to get list of users of live server.
+Using given below credentials, one can post blog using local server, email me at mustafajahangir121@gmail.com to get list of users of live server.
 
     $users = array(
         array("user" => "user1@blog.com", "pass" => "pass1", "name" => "Johnny"),
